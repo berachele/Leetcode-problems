@@ -1,4 +1,4 @@
-# Leetcode-problems
+# Leetcode-problems & Technical Interview Practice
 
 This repo is to test and debug my solutions for coding challenges.
 
